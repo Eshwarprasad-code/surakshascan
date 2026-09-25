@@ -12,3 +12,11 @@ __pycache__/
 *.pyc
 .pytest_cache/
 *.egg-info/
+
+# Node / React
+node_modules/
+frontend/node_modules/
+
+# Frontend build files
+frontend/dist/
+frontend/build/
