@@ -1,0 +1,3315 @@
+{
+  "accuracy": 0.9131578947368421,
+  "total": 380,
+  "correct": 347,
+  "false_positives": [
+    {
+      "text": "ThatÃ¢ÂÂs all for today. Get some rest. If you need the documents tonight, send me a private messa",
+      "expected_unsafe": false,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": false,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Your payment of ₹899 has been received please act now",
+      "expected_unsafe": false,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": false,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "USPS (Your Parcel Is Cleared) Re-schedule:https://bit.ly/387Mzes",
+      "expected_unsafe": false,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Your parcel has been delivered successfully please act now",
+      "expected_unsafe": false,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": false,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your card has been charged $268.00 for the shipping of your MADSHNE 24\"\" Caged Ceiling Fan with Ligh",
+      "expected_unsafe": false,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Your parcel has been delivered successfully please act now",
+      "expected_unsafe": false,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": false,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your parcel has been delivered successfully please act now",
+      "expected_unsafe": false,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": false,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "GROW UR COCK 2+ INCHES, STAY STIFF FOR HOURS slanderchapter.com/LC6JHd",
+      "expected_unsafe": false,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Your payment of ₹899 has been received please act now",
+      "expected_unsafe": false,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": false,
+      "source": "ganesh9353"
+    }
+  ],
+  "false_negatives": [
+    {
+      "text": "fdarown ur dream home most attractive price with lifestyle amenities    bhk apts in goregaon e booki",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "on sohnagurgaon road bhk apts  rs lac beautiful view  plan by central park call",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Text Message Thu XX Jun 8:54 pm Thank You For Bill Payment Of Rs XX On XX-XX-XXXX at 08:54 PM.Your E",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "with fast growing idea network now get superfast g internet at  towns of odisha including bhubaneswa",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Gasolina & more are now on the Wynk Music App. Don't miss out on ad-free HD music with over 24 milli",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "catch the ind vs pak t potboiler with wangs kitchen buy   get nd dish of same value free from  feb u",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "ROMCA Everyone around should be responding well to your presence since you are so warm and outgoing.",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "make world better ngoemotion trustneeds volunteers help someone need  solve social problem societygi",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "this is reddyour gust house address mahateja guset house plot no green hamlet layout novatel road  s",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "स्टेटAVAT! आपके 2003 खाता स्टेटमेंट के लिए दिखाई दे 800 गैर-द्ड एस. एम.",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Sat X Oct 2:27 PM Your E Complaint No XXXXXXXXXXXXXXXXX Enquiry have be complete Details of Action T",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "republic day offer buy arto pack of  bedsheet   call to order use coupon code  to get additional  of",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "thanks for downloading ptune tarun as your hellotune absolutely free for all callers for more songs ",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Redcliffe Labs: Healthy India Ki Trusted Lab Book your Health Checkup for only Rs 399/- 81 Parameter",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "When an egg is broken with force from the outside  a life ends. If an egg breaks by itself  a life b",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "TBS/PERSOLVO. been chasing us since Sept forÃ¥Â£38 definitely not paying now thanks to your informat",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "ltd offr full body massage with herbal cream  aroma oil in child rooms by beautiful trained therpist",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Good News Now experience superior indoor coverage with Airtel Wi Fi Calling Upgrade your handset sof",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Dreaming what you want to dream  thats the beauty of the human mind. Doing anything you want to do  ",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "new year offer from alcor spabuy silver package spa and get bronze package  spa free offer valid fro",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "deals  day blockbuster weekend at www lenskart com deals steal deals on sunglasses eyeglasses lenses",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "republic day offer recharge by rs  get upto rs tt along with gb data plus unltd wa fb tw for  daysdi",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Your a c no 221xxxx0190 be credit by INR 25868.00 on 10/08/20 by a c link to mobile XXXXXXXXXX IMPS ",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "domainadda big hosting sale linux hosting for just  rs year use code offhost free site builder unlim",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    }
+  ],
+  "all_results": [
+    {
+      "text": "Your parcel has been delivered successfully immediately",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "You are selected for instant loan approval, click to proceed please act now",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your train ticket has been booked successfully please act now",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your train ticket has been booked successfully immediately",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Haha icic! Haha so nice:P see he went into the kitchen! Haha the raindamn shiok^^ sadly now not rain",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Both on mobile and laptop",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "You are selected for instant loan approval, click to proceed",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Lol hey don't forget u still owe me a date first.",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Have u mised 6 clock dr?",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Hi team ,",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "fdarown ur dream home most attractive price with lifestyle amenities    bhk apts in goregaon e booki",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "hey  join me on hike messenger its got amazing stickers in our own language  is made in india downlo",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "FREE 2GB data waiting! Claim on Airtel Thanks App Now. Hurry i.airtel.in/2GB_FR",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Aapka parcel customs me atka hai, ₹35 pay karke release kare immediately",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Someone tried logging into your BHIM UPI account from a new device, share the OTP received to cancel",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "आपका KYC पूरा नहीं है, तुरंत अपडेट करें please act now",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your train ticket has been booked successfully abhi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "on sohnagurgaon road bhk apts  rs lac beautiful view  plan by central park call",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Oi. Ami parchi na re. Kicchu kaaj korte iccha korche na. Phone ta tul na. Plz. Plz.",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "dear rksunanda   your gift with order no or is now at our local delivery hub and will reach the dest",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Weekend Deals @SMART Point Store,B2G1 Sunfeast Dark Fantasy 300g,Rs 56 OFF Colgate Tooth Paste 500g,",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Whoa! Jyjy! Hahaha of course, you're a guy mah! It works like that!Hahaha korkor raghav!!! So cute X",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Reminder... 4244 presentation at 9am... S17-06-SR4",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Im in lt already. Come over when you are done. Im still starting at7pm though.",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Trott is test player",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "From someone not to smoke when every time I've smoked in the last two weeks is because of you callin",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "आपका बैंक खाता सत्यापन लंबित है, कृपया तुरंत अपडेट करें immediately",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Total pages only  <#> . Exclude cover page include references. Butplus formatting probably add about",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Text Message Thu XX Jun 8:54 pm Thank You For Bill Payment Of Rs XX On XX-XX-XXXX at 08:54 PM.Your E",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Oh. Perhaps it collects usage pattern data?",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "I need to call and reset it",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Hi Team.",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Dear I'm coming.... hee. I feel like buying some fruits ..what'snice?  Oranges?",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Haha can i have a bottle of lemon tea? My throat is killing me.",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Ok Ranjit",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Dear Customer Your Electricity Power will be disconnect Tonight at 10.30 pm from electricity office ",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Only on Vi - unused Data from Monday to Friday? Binge and use this Data with Rollover on Weekends! K",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Anyone wants to join SAU bangalore site implementation on Saturday?",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Uncle's flight lands at 6pm, someone needs to pick him up.",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Hello! Now you can Check your balance by simply click wa.me/919654297000?text=balance",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "rush hour sale   men shirts  flat  off starting   httpysmrtlnkinaxzdcu  flat  off on kurtis starting",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "go all out get up to  off   cashback on a wide range of gold and diamond jewellery sin  shop and spl",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Aapka parcel customs me atka hai, ₹35 pay karke release kare immediately",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Lenskart Diwali Sale is still On! Buy 1 Get 1 Free plus upto 40% Off on your favorite styles. TnC Sh",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Thank you for your purchase abhi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Aapka parcel customs me atka hai, ₹35 pay karke release kare abhi kare",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "\" If the CPI report meets expectations, it will indicate that inflation remains on a downward trend.",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Your train ticket has been booked successfully immediately",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Thank you for your purchase jaldi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "मिंत्रा लॉगिन के लिए आपका एक बार का पासवर्ड (OTP) 599397 है। यह 10 मिनट के लिए मान्य है। कृपया अपना ",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Part-time Job Opportunity! Earn daily Rs 3,500 from mobile. Simple Google Maps rating & YouTube like",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Aapka ATM card block ho gaya hai, details update kare please act now",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Aapka ATM card block ho gaya hai, details update kare immediately",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Aapka ATM card block ho gaya hai, details update kare jaldi kare",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Haha i'm also doing hw lor damn sian. Hahaha dun want no one walk with me!",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Your name has been selected to win 1 crore rupees in this month's grand lucky draw, claim now before",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "LOL HOW CAN I HELP YOU MAPLE SYRUP",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Christmas is An occasion that is Celebrated as a Reflection of UR... Values..., Desires..., Affectio",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "hot property vaishalivasundhraindirapuram ready  move  flat  loan parking  bhk  lac to  lac  bhk   l",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "probably the same",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Thank you for your purchase jaldi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Mobile Internet ka full fayda. Ab karo download MP3, images, videos, games sirf Re1 mein. Click Now!",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "It's funmi.result is out .",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "My friends, youÃ¢ÂÂre all so professional, it feels like you know everything",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Your parcel has been delivered successfully immediately",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Aapka parcel customs me atka hai, ₹35 pay karke release kare",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "मैं नीचे जाने के लिए जा रहा हूँ।",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "You are selected for instant loan approval, click to proceed immediately",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Dey cake.",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "I understand your basis for judgment.",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "ThatÃ¢ÂÂs all for today. Get some rest. If you need the documents tonight, send me a private messa",
+      "expected_unsafe": false,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": false,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "You be one of the X winner of a Mastercard reward card of 850,000.00 Ã¢ÂÂ¬ in Mastercard exclusive ",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Get Aye by Davido FREE for 30 days. To get this tune  text 2 to 251 or text FREE to 251 for a list o",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Thanks for appreciate our refund policy help us to spread it on Twitter View trend http://rrj.nu/ H1",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Covid cases & lockdown updates - Stay safe & get LIVE news with Manorama news on Vi Movies & TV app!",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "You are selected for instant loan approval, click to proceed immediately",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Dear winner, your number has won Rs 12,00,000 in the BHIM UPI New Year Lucky Draw. Contact support t",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "I got some emergency , so will be bit late.",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "this morning i got a friend who told me she think  guys who cry  are weakling on the other hand i th",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "homes best in quality location  deals to offer urbainia trinity mins away frm city centre  rs  lacs ",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Your parcel has been delivered successfully jaldi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Get Lifetime FREE Card + 5% Unlimited Cashback with Flipkart Axis Bank Credit Card. Hurry! Limited P",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "wow that's fast! Thanks! If u think I'm going too fast, too slow, orgot any qns, pls ask. Whenever u",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Your order has been shipped and will arrive tomorrow",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your payment of ₹899 has been received",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Enjoy 600MB FREE WhatsApp XX bob only valid for X day Dial XXX XX X to subscribe today",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Your payment of ₹899 has been received",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Jan is fast approaching. So, Wish u a very Happy New Year Happy Sankranti Happy republic day Happy V",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "हाँ, पैरी देख रहे हैं लेकिन चिंतित हम इसे - फिलविल उड़ा करने के लिए जा रहे हैं?",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Thank you for your purchase jaldi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "आपका बैंक खाता सत्यापन लंबित है, कृपया तुरंत अपडेट करें immediately",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "The trend is still moving upward so IÃ¢ÂÂd like to continue holding and see how it develops",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "SECURITY ALERT: Unusual login detected on your Instagram account from Mumbai. Confirm your identity ",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Is ok.. u shld start sleeping earlier.. just now I lecture so nowthen reply.. feeling better?",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "As in end of high sch! Haha!",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "get  cashback you have recharged with rsmb g d put your pack on autorenewal for free and get  cashba",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "HALIFAX ALERT Hello Suspicious activity have be notice You must confirm your detail at dataserv1.onl",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Hi team I'll be joining late today by 10",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Your parcel has been delivered successfully abhi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "with fast growing idea network now get superfast g internet at  towns of odisha including bhubaneswa",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Aapka parcel customs me atka hai, ₹35 pay karke release kare immediately",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "You are selected for instant loan approval, click to proceed please act now",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Aapka parcel customs me atka hai, ₹35 pay karke release kare immediately",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Wanna build muscle?",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Best msg: It's hard to be with a person, when u know that one more step foward will make u fall in l",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Your payment of ₹899 has been received please act now",
+      "expected_unsafe": false,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": false,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Thank you for your purchase",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Chelsea's new signing Christian Atsu will benefit from his season-long loan to Dutch side Vitesse  a",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Hi Vi customer, A click makes your life so easy! View balance, make payment & do much more using Vi ",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "LOL JUST DIE HAHA ENGLISH TOO AWESOME EVEN FRED WANTS TO MARRY IT",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Your payment of ₹899 has been received",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "The train got delayed by 40 minutes, I'll message when I board.",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Pls assist me to",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Post Office: Your parcel has been redirected to your local Post Office branch due to an unpaid shipp",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Dear customer your Kotak credit card point worth INR XXXX expire by tomorrow Kindly redeem your poin",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Good morning Mr Arvind Singh Check in",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Your train ticket has been booked successfully",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Gudmorning  in a training. Send text.",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Aapka parcel customs me atka hai, ₹35 pay karke release kare immediately",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "You are selected for instant loan approval, click to proceed please act now",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "good morning kk",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "आपका बैंक खाता सत्यापन लंबित है, कृपया तुरंत अपडेट करें abhi kare",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "आपका बैंक खाता सत्यापन लंबित है, कृपया तुरंत अपडेट करें please act now",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your order has been shipped and will arrive tomorrow jaldi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your payment of ₹899 has been received jaldi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Haha I woke up le! morning haha! Okay haha so where do you all cyclearound? In a circle is it haha g",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "s still a long queue... Sianz... I might not b able to meet ur...",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "?????! 1 ?????? ?? DD FREEDISH ?? Star Utsav, Sony Pal, Zee Anmol ?? Colors Rishtey ?????? ???? ????",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "How's first day working? I overslept, missed 1 class -.-\"",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "एचडीएफसी बैंक: आपके खाते संख्या XX9904 से ₹1,250 की राशि डेबिट की गई है। उपलब्ध शेष राशि ₹31481.00 ह",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "If I let you bet on me now, betting that I will win the Olympic long-distance running championship, ",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Cloudnine administrator has assigned 1 course to you. These courses need to be completed by 31-08-20",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Dear we can offer you to work online & earn 8000-20000/day according to your performance, no time li",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "\" Good afternoon, investors. The market has now closed, so let's do a quick summary.\"",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Gasolina & more are now on the Wynk Music App. Don't miss out on ad-free HD music with over 24 milli",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "आपका बैंक खाता सत्यापन लंबित है, कृपया तुरंत अपडेट करें abhi kare",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your payment of ₹899 has been received immediately",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "आपका बैंक खाता सत्यापन लंबित है, कृपया तुरंत अपडेट करें jaldi kare",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your parcel be await dispatch Please confirm the 2.99 GBP ship fee via hermes-transit.com in order f",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Hi team, hope everyone is safe; those who are in cyclone hit areas; let us know u r status so that w",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "The underlying logic of the DIF (Difference) is that the short-term Exponential Moving Average (EMA)",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Your order has been shipped and will arrive tomorrow please act now",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your order has been shipped and will arrive tomorrow immediately",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your best friend on your mobile - Vi WhatsApp ! Get talk time details, check balance, track Data usa",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Your parcel has been delivered successfully immediately",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Ah OK sure",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "This Ugadi flaunt your Ethnic Best with Shoppers Stop Click bit.ly/IGEWSTL for looks curated by infl",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Your train ticket has been booked successfully",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your train ticket has been booked successfully jaldi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your parcel has been delivered successfully jaldi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "How long does applebees fucking take",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "आपका KYC पूरा नहीं है, तुरंत अपडेट करें please act now",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "catch the ind vs pak t potboiler with wangs kitchen buy   get nd dish of same value free from  feb u",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Apply for Pre-qualified credit card limit up to INR 150,000 & get Noise ColorFit Pulse 2 Max Smart W",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "The doctor's appointment is confirmed for Thursday 11am, please don't forget.",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "It's nice to think about, but when big institutions operate in the stock market, they usually have t",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Yeah barely slept. I might be going over to hostel only by tmr morning. Is that fine?",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "आपका KYC पूरा नहीं है, तुरंत अपडेट करें jaldi kare",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "USPS (Your Parcel Is Cleared) Re-schedule:https://bit.ly/387Mzes",
+      "expected_unsafe": false,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Aapka ATM card block ho gaya hai, details update kare abhi kare",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your parcel has been delivered successfully",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Scotiabank security system have detect some unusual activity Please verify your identity in order to",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "No wonder banking stocks haven't been able to rise lately",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "I think I can understand something",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Call afte studyin",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Did you raise ticket with IT team",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Your parcel has been delivered successfully",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "No internet? No problem; You can still enjoy Facebook without internet charges. Dial *510# for Daily",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Work From Home: Daily income Rs 6,000 by writing simple 5-star product reviews on Flipkart. Send 'JO",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Your payment of ₹899 has been received abhi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Hahaha what so random! But Amanda seyfried pretty anot? Hmm dun smsme until you reach home bah, talk",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Sunday got offer meh?",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Unlimited 5G data + 22 OTTs = Airtel Prepaid SIM! Order your SIM & enjoy home delivery at no extra c",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Hello Mate We 've put togther an amazing WELCOME PACKAGE for your first five deposit http://21h.us/Y",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "You have won Rs 75,000 cash prize in the Axis Bank Customer Reward Scheme. Share your account number",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Your order has been shipped and will arrive tomorrow",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Dear Denima, Hope you enjoyed your shopping at Lifestyle! Click To View Your e-invoice knvl.me/AyV2l",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "I don't really understand what you all are talking about. I just buy the stocks recommended by the p",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Amazon be urgently recruit for part-time job you can earn XXXX-XXXX Rs every day add Whatsapp wa.me/",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Your payment of ₹899 has been received",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "You are selected for instant loan approval, click to proceed",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your order has been shipped and will arrive tomorrow jaldi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Aapka ATM card block ho gaya hai, details update kare",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Yeah, I kept 31st Nov",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Your train ticket has been booked successfully jaldi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "HMV BONUS SPECIAL 500 pounds of genuine HMV vouchers to be won.  Play Now! Send HMV to 86688 More in",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Where are u",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "free facebook whatsapp  hike upto mb till march upload photos and chat with friends without any rech",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "आपका KYC पूरा नहीं है, तुरंत अपडेट करें jaldi kare",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "K SOUL FACEBOOK ACCOUNT IS NOT ACTIVE ANYMORE IF YOU HAVE QUESTIONS OR WANT TO REACH US PLEASE SEND ",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "special g offer  guna internet milega gb g data  days on bc mb turant  mb  ghante baaddial  to activ",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "I knew it... U slept v late yest? Wake up so late...",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "UIDAI recommends updating Proof of Identity & Address documents in your Aadhaar (free at myaadhaar.u",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Your parcel has been delivered successfully please act now",
+      "expected_unsafe": false,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": false,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Iâ°ÃÃ·ll leave around four, ok?",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "ROMCA Everyone around should be responding well to your presence since you are so warm and outgoing.",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "आपका बैंक खाता सत्यापन लंबित है, कृपया तुरंत अपडेट करें immediately",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "make world better ngoemotion trustneeds volunteers help someone need  solve social problem societygi",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "आपका KYC पूरा नहीं है, तुरंत अपडेट करें abhi kare",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your order has been shipped and will arrive tomorrow jaldi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your card has been charged $268.00 for the shipping of your MADSHNE 24\"\" Caged Ceiling Fan with Ligh",
+      "expected_unsafe": false,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "आपका KYC पूरा नहीं है, तुरंत अपडेट करें",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Ã¢ÂÂÃ¯Â¸ÂÃ¢ÂÂÃ¯Â¸ÂÃ¢ÂÂÃ¯Â¸ÂÃ¢ÂÂÃ¯Â¸ÂÃ¢ÂÂÃ¯Â¸ÂÃ¢ÂÂÃ¯Â¸ÂÃ¢ÂÂÃ¯Â¸ÂÃ¢ÂÂÃ¯Â¸ÂÃ¢Â",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "this is reddyour gust house address mahateja guset house plot no green hamlet layout novatel road  s",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "HMCTS Enforcement: This is a reminder from HMCTS regarding your outstanding court fine for account n",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Wednesday Bonus@JioMart,Bangalore!Onion Rs 27/Kg,Apple Simla Rs 139/Kg,Cucumber Rs 19/Kg,Also at SMA",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Just done. Meet you at forum?",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Riya, please check my message when you are free. I left you a message. I want the stock analysis cou",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Your order has been shipped and will arrive tomorrow jaldi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "एचडीएफसी बैंक: आपके खाते संख्या XX6792 से ₹2,499 की राशि डेबिट की गई है। उपलब्ध शेष राशि ₹36925.00 ह",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "U come this aft? What time?",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "dear customer  we have received portin request for ur mb no on  with upc code at having validity til",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "s 4 australia one... But i wun tell them juz say Ã¼ go 4 driving oredi lor...",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "@512.90 purchase 100 shares",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Aapka ATM card block ho gaya hai, details update kare abhi kare",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "notice regarding your Aramex pkg:aramenal.net Pinch to zoom in or out",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "स्टेटAVAT! आपके 2003 खाता स्टेटमेंट के लिए दिखाई दे 800 गैर-द्ड एस. एम.",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "rs shopping voucher could be yours this week call  now to play tc",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "हम अपनी माँ के पास से चला गया. Rachewowwack पर सही जा रहा था / मैं boling पहाड़ पर जा रहा है. पता स्",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Good evening everyoneÃ°ÂÂÂÃ°ÂÂÂ¼",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "आपका बैंक खाता सत्यापन लंबित है, कृपया तुरंत अपडेट करें abhi kare",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "oo.. nv go out with her today?",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "No prob :) lemme know at your earliest convenience coz I may not be able to spend much time on this ",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Exclusive offer for you! 1) 30 Day free with Airtel Xstream Fiber 2) 350+ channels 3) 16+ OTTs inclu",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Buy1 Get1 FREE with Lenskart Gold Membership this Valentine & 14% Cashback on all orders. Explore th",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Congratulations Amit, you are selected for a work from home job with Infosys, salary Rs 20,00,000, p",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Your payment of ₹899 has been received jaldi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "want to make the most of opportunities get an instant loan with zero documentation on your citibank ",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Your train ticket has been booked successfully abhi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "India just shy of top-weight China in the MSCI EM index after rejig",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "shhh here is a secret get additional  gc discount as payback pts on the pantaloons flat  off sale on",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Sat X Oct 2:27 PM Your E Complaint No XXXXXXXXXXXXXXXXX Enquiry have be complete Details of Action T",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "republic day offer buy arto pack of  bedsheet   call to order use coupon code  to get additional  of",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Aapka parcel customs me atka hai, ₹35 pay karke release kare please act now",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Hey 2moro how u going school",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Today was the day the stock market finally closed lower",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "thanks for downloading ptune tarun as your hellotune absolutely free for all callers for more songs ",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Free video camera phones with Half Price line rental for 12 mths and 500 cross ntwk mins 100 txts. C",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "This Mother's Day, find a gift for your #FirstLove Click bit.ly/SS_MDAY shop at shoppersstop.com & E",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Redcliffe Labs: Healthy India Ki Trusted Lab Book your Health Checkup for only Rs 399/- 81 Parameter",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Your order has been shipped and will arrive tomorrow abhi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Hi Jeremy I 'm Kate with Kastel I 'm recruit for a Sr Software Engineer You look like a great fit Pl",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "You are selected for instant loan approval, click to proceed immediately",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Its anoda new mnth  i pray d Lord wil perfect al dat concerns u. I declare  PEACE in2 ur life. Every",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Watch exciting T20 matches everyday, LIVE on Disney+ Hotstar. Get 1 year Disney+ Hotstar mobile subs",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "You are selected for instant loan approval, click to proceed jaldi kare",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Aapka parcel customs me atka hai, ₹35 pay karke release kare please act now",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your parcel has been delivered successfully immediately",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "When an egg is broken with force from the outside  a life ends. If an egg breaks by itself  a life b",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "भारतीय रेल (IRCTC): पीएनआर 2911984483 के लिए टिकट पुष्टि स्थिति: कंफर्म (Coach B3, Seat 65)। शुभ यात",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Your payment of ₹899 has been received abhi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Waiting to watch F.R.I.E.N.D.S Reunion on ZEE5? Get 1 year ZEE5 Premium on Vi Rs 405 recharge. Also ",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Your payment of ₹899 has been received immediately",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "TBS/PERSOLVO. been chasing us since Sept forÃ¥Â£38 definitely not paying now thanks to your informat",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Dear customer your SBI account have be block due to KYC update within XX hour please contact customb",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Your bank KYC is expiring today. Click the link and enter your Aadhaar and OTP to keep your account ",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Hurry! Enjoy 1 FREE Ring Back Tune & FREE Activation for 30days. Text FREE to 251 for a list of free",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Dear AirTel User Your Airtel SIM KYC Hass Been Expire today Please Update Your KYC Call as XXXXXXXXX",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Aapka parcel customs me atka hai, ₹35 pay karke release kare jaldi kare",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "सावधान! आपका एचडीएफसी बैंक खाता संख्या XX5552 आज रात 12 बजे ब्लॉक कर दिया जाएगा। ई-केवाईसी (e-KYC) स",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "ltd offr full body massage with herbal cream  aroma oil in child rooms by beautiful trained therpist",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Dear candidate, you have cleared the initial screening for the HR Executive role. Complete document ",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Thank you for your purchase immediately",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "भारतीय रेल (IRCTC): पीएनआर 6456996293 के लिए टिकट पुष्टि स्थिति: कंफर्म (Coach B5, Seat 25)। शुभ यात",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "आपका KYC पूरा नहीं है, तुरंत अपडेट करें",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Don't miss out on FREE 2GB Data! Download and register on Airtel Thanks App today. T&C Claim now : i",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "I changed! Ethanol and phenom how compare acid strength",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Thank you for your purchase immediately",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Wat time is SAT",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "CONGRATULATIONS! FREE 2GB data is yours! Claim on Airtel Thanks App Now. Hurry i.airtel.in/e/csl_ml_",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "You are selected for instant loan approval, click to proceed please act now",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your OTP to link Aadhaar with Kotak Mahindra account is 598777. Do not share, but confirm by replyin",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "LAST FEW DAYS of Shoppers Stop Showstoppers Beauty Upto 50%* Off Sale Grab your favourites in Cosmet",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Thank you for your purchase immediately",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "The market weakening now is an opportunity for us",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Your parcel has been delivered successfully please act now",
+      "expected_unsafe": false,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": false,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Hi! Presenting the all New Chat-Bot Service, Our Artificially intelligent chat bot will assist you a",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Your Netbank access have be restrict due to some unusual activity Please visit http://my commbank.ne",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Study from Home with Vi!! Watch Kite Victers Channel FREE on your Mobile with Vi . Download Vi Movie",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "dear customer  your deal of the day for  is  minutes for international or local calls at aed  only t",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "single lady want a man X fun serious relationship Meet4Click-H erer Olivia-saxy-local.site ..",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "EVERYTHING under Rs.599! A style binge on a budget with FREE SHIPPING*. Shop your faves at the AJIOM",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "आपका KYC पूरा नहीं है, तुरंत अपडेट करें jaldi kare",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Aunty",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Your package have a fail delivery attempt http://pixel-install.me/t/ 7ydmqmto7 zxmfn",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Aapka parcel customs me atka hai, ₹35 pay karke release kare immediately",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Although it may not be that favorable the chances of a Fed rate cut in September are still quite hig",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Haha me always sianz abit la i chose architecture",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Congralutation! Unlimited Calls 1.5GB/day along with 100 SMS/day has been credited in your account f",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "I left the namecard with my aunt. U go her house take.",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Yea better not update later become non genuine again.",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Your order has been shipped and will arrive tomorrow please act now",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your train ticket has been booked successfully jaldi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Exclusive access for you! Watch the India vs Zim series LIVE on Airtel Xstream Play. Claim now open.",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "आपका KYC पूरा नहीं है, तुरंत अपडेट करें abhi kare",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Lenskart Online Mega Sale: Buy1Get1 FREE + Upto 40% Off on Eye & Sunglasses! Fresh Stocks Added.TnC ",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Dear HDFC customer your bank Account will be blocked! Today so please update your PAN CARD click her",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Enjoy Upto 70% OFF on your favourite brands at MEGA BARGAIN DAYS only at shoppersstop.com till 30-Se",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Seems like nobody else gg early lol. A bit extra sia.",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Dear customer, your PAN-Aadhaar linking failed. Complete verification now or your account will be fr",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "only  hrs to go shop now  buy men shoes  get  pairs of socks free httpysmrtlnkinwdfrlfv  buy  kurtis",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Not required now",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Eke कि समय का एक बहुत कुछ है विशेष रूप से अमेरिका पाई 8 मिनट लंबे की तरह है. मैं इसे गा नहीं रोक सकत",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "My name be Ben and I be a Manager at Moderna Vaccines I have an urgent discussion with you if intere",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Dear SBI user your SBI YONO Account will be close today please click here on the link.http://kundrad",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Hey... Thk we juz go accordin to wat we discussed yest lor, except no kb on sun... Cos there's nt mu",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Good News Now experience superior indoor coverage with Airtel Wi Fi Calling Upgrade your handset sof",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "आपका बैंक खाता सत्यापन लंबित है, कृपया तुरंत अपडेट करें",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your Airtel SIM is 5G ready. Check now if your Smartphone is 5G enabled. Click i.airtel.in/e/airtel5",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Hence the algorithm can decide to choose that option during its next iteration / step which maximize",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Your order has been shipped and will arrive tomorrow abhi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your train ticket has been booked successfully abhi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "आपका KYC पूरा नहीं है, तुरंत अपडेट करें",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Hi! Watch your favourite shows via Live TV on Vi App simply click to download https://bit.ly/myvi-ap",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Good morning The US markets are doing okay with only the Dow Jones declining",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Government notice: Your Aadhaar card is not linked to your mobile number. Link now to continue mobil",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "आपका बैंक खाता सत्यापन लंबित है, कृपया तुरंत अपडेट करें jaldi kare",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "I got this issue today only and will try to get it fixed asap",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Your train ticket has been booked successfully jaldi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Come back to your favorite Vedix Haircare and enjoy healthy hair! Click here https://vedix.in/3l33po",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "money back offer on trading  get  off on your brokerage start trading now download  httpbitlylihr tn",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Hmm.. I've no idea! Haha. How?",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "m still in camp. U wun b sleepin early rite?",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "How to get it",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Dear Customer Your `` P `` `` YTM `` KYC Document Has Expire Today Your Service Will Block Within XX",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Thank you for your purchase immediately",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "NOTICE: An unauthorized login was detected on your HDFC net banking. Verify your identity by enterin",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "There is power cut in our area since 12 am",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": ":-) thanks for your help!",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Aapka parcel customs me atka hai, ₹35 pay karke release kare",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "wanted u to teach me fdr 1. Tml then. Rest well.",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Thank you for your purchase abhi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Dreaming what you want to dream  thats the beauty of the human mind. Doing anything you want to do  ",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "आपका KYC पूरा नहीं है, तुरंत अपडेट करें immediately",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "I'm also waiting for the market to improve before adjusting my investment portfolio",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "RM0.00 M2U Dear M2U user your account have be suspend Log on to www.maybnaks.online to complete the ",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Your parcel has been delivered successfully please act now",
+      "expected_unsafe": false,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": false,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "BOO BABE! U ENJOYIN YOURJOB? U SEEMED 2 B GETTIN ON WELL HUNNY!HOPE URE OK?TAKE CARE & IÂLLSPEAK 2U",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Aapka ATM card block ho gaya hai, details update kare",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "You are selected for instant loan approval, click to proceed",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "You are selected for instant loan approval, click to proceed please act now",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Aapka OTP for Zomato order payment of Rs 3,800 is 238610. Valid for 5 mins. Kabhi bhi apna OTP kisi ",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "can u help me get 2 AA batteries back?",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "its back  off on ebay to a max of rs  using oxigen wallet valid only thst dec promocode oxigendec sh",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "France Vs Germany 5PM  Brazil Vs Colombia 9PM Text WC to 38400 and get world cup fixtures 3 Days fre",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Aapka ATM card block ho gaya hai, details update kare immediately",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "I shared the progresss",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Maintenance Chase Backups Service Update On Saturday January XX 12:00 UTC 7:00 EDT Action Immediate ",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Top guys can pitch in to our war room at any time",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Enjoy 3GB data valid till your current pack validity.Also get EXTRA 2GB on your next recharge of Rs5",
+      "expected_unsafe": true,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Aapka ATM card block ho gaya hai, details update kare jaldi kare",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your phone number has won in our lottery draw. Claim your prize now at http://XXXXX",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Taking time",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Aapka ATM card block ho gaya hai, details update kare jaldi kare",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Canara Bank: Rs 450 credited to your account XX6213 via UPI/IMPS ref no 20443030. Total balance: Rs ",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "GROW UR COCK 2+ INCHES, STAY STIFF FOR HOURS slanderchapter.com/LC6JHd",
+      "expected_unsafe": false,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Trading strategy for this FridayÃ°ÂÂÂ»",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Your lose iPhone have be find The last reported location for your iPhone will remain available for 2",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Thank you for your purchase please act now",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "आपका KYC पूरा नहीं है, तुरंत अपडेट करें immediately",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "R u keen n free to come n take photo w me aft my commencement ceremony on next wed at abt 11?",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Hee thank you dearie . You really made me feel better today. It willtake time but eventually i belie",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "who is going Ã± Ã© details of Ã© outing? I know nothing abt it leh! Tell me!From what time to what t",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "new year offer from alcor spabuy silver package spa and get bronze package  spa free offer valid fro",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Your payment of ₹899 has been received please act now",
+      "expected_unsafe": false,
+      "system_risk_level": "Suspicious",
+      "system_unsafe": true,
+      "correct": false,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Aapka ATM card block ho gaya hai, details update kare abhi kare",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "deals  day blockbuster weekend at www lenskart com deals steal deals on sunglasses eyeglasses lenses",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "republic day offer recharge by rs  get upto rs tt along with gb data plus unltd wa fb tw for  daysdi",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Need to announce something",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Good evening, students in Bajaj Finserv's official group. I am Vijay bajaj, Bajaj Finserv's chief ri",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "SMSPHARMA is now up 3% which is already a good gain",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "Your a c no 221xxxx0190 be credit by INR 25868.00 on 10/08/20 by a c link to mobile XXXXXXXXXX IMPS ",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Thank you for your purchase abhi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "आपका बैंक खाता सत्यापन लंबित है, कृपया तुरंत अपडेट करें",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Aapka ATM card block ho gaya hai, details update kare immediately",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Your order has been shipped and will arrive tomorrow abhi kare",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "आपका बैंक खाता सत्यापन लंबित है, कृपया तुरंत अपडेट करें jaldi kare",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "ganesh9353"
+    },
+    {
+      "text": "Hi ,",
+      "expected_unsafe": false,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": true,
+      "source": "anmolshrivastav"
+    },
+    {
+      "text": "domainadda big hosting sale linux hosting for just  rs year use code offhost free site builder unlim",
+      "expected_unsafe": true,
+      "system_risk_level": "Safe",
+      "system_unsafe": false,
+      "correct": false,
+      "source": "sidzzz07"
+    },
+    {
+      "text": "Dear SIDDHARTHS HINTRE the IncomeTaxDepartment wish to notify you that after the recent conclude acc",
+      "expected_unsafe": true,
+      "system_risk_level": "High Risk",
+      "system_unsafe": true,
+      "correct": true,
+      "source": "sidzzz07"
+    }
+  ]
+}
