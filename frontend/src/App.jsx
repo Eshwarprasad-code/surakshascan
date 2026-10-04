@@ -1,6 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import MessageInput from "./components/MessageInput";
 import ResultCard from "./components/ResultCard";
+import { LANGUAGES, translations } from "./i18n";
 
 // Container component: owns state + the API call. Presentational
 // components (MessageInput, ResultCard) just render props.
@@ -26,6 +27,9 @@ const EXAMPLES = [
 ];
 
 export default function App() {
+  const [uiLang, setUiLang] = useState("en");
+  const t = translations[uiLang];
+
   const [message, setMessage] = useState("");
   const [result, setResult] = useState(null);
   const [loading, setLoading] = useState(false);
@@ -55,11 +59,20 @@ export default function App() {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ message: textToSend }),
       });
-      if (!res.ok) throw new Error(`Server returned ${res.status}`);
+      if (!res.ok) {
+        let detail = null;
+        try {
+          detail = (await res.json()).detail;
+        } catch {
+          // response wasn't JSON — fall through to the generic message
+        }
+        setError(res.status === 429 ? detail || t.errorRateLimit : t.errorGeneric);
+        return;
+      }
       const data = await res.json();
       setResult(data);
     } catch (err) {
-      setError("Couldn't analyze that message right now. Please try again.");
+      setError(t.errorGeneric);
     } finally {
       setLoading(false);
     }
@@ -78,18 +91,33 @@ export default function App() {
         paddingBottom: "max(3rem, env(safe-area-inset-bottom, 0px))",
       }}
     >
+      <div className="max-w-2xl mx-auto flex justify-end mb-2">
+        <div className="inline-flex rounded-full border border-slate-300 bg-white p-0.5">
+          {LANGUAGES.map((l) => (
+            <button
+              key={l.code}
+              onClick={() => setUiLang(l.code)}
+              className={`cursor-pointer text-xs px-3 py-1 rounded-full transition ${
+                uiLang === l.code
+                  ? "bg-indigo-600 text-white"
+                  : "text-slate-600 hover:bg-slate-100"
+              }`}
+            >
+              {l.label}
+            </button>
+          ))}
+        </div>
+      </div>
+
       <div className="max-w-2xl mx-auto text-center mb-6">
         <h1 className="text-3xl font-bold text-slate-900 flex items-center justify-center gap-2">
           <span>🛡️</span> SurakshaScan
         </h1>
-        <p className="text-slate-600 mt-2">
-          Paste a suspicious message and get an instant, plain-language safety check —
-          English, Hindi, or Telugu.
-        </p>
+        <p className="text-slate-600 mt-2">{t.subtitle}</p>
       </div>
 
       <div className="max-w-2xl mx-auto mb-6">
-        <p className="text-xs text-slate-500 mb-2 text-center">Try an example:</p>
+        <p className="text-xs text-slate-500 mb-2 text-center">{t.tryExample}</p>
         <div className="flex flex-wrap justify-center gap-2">
           {EXAMPLES.map((ex) => (
             <button
@@ -109,13 +137,12 @@ export default function App() {
         onChange={setMessage}
         onSubmit={() => handleAnalyze()}
         loading={loading}
+        t={t}
       />
 
       {loading && (
         <p className="max-w-2xl mx-auto mt-3 text-center text-xs text-slate-400">
-          {elapsed < 8
-            ? "Analyzing..."
-            : "Still working — the server may be waking up from idle, this can take up to a minute on the first request."}
+          {elapsed < 8 ? t.analyzingButton : t.wakingHint}
         </p>
       )}
 
@@ -126,16 +153,15 @@ export default function App() {
             onClick={() => handleAnalyze()}
             className="cursor-pointer mt-2 text-sm text-red-700 underline font-medium hover:text-red-900"
           >
-            Try again
+            {t.tryAgain}
           </button>
         </div>
       )}
 
-      <ResultCard result={result} />
+      <ResultCard result={result} t={t} />
 
       <p className="max-w-2xl mx-auto mt-10 text-center text-xs text-slate-400">
-        Your message is analyzed instantly and not stored. If in doubt, report suspicious
-        messages to the National Cyber Crime Helpline: 1930 or cybercrime.gov.in
+        {t.footerDisclaimer}
       </p>
     </div>
   );

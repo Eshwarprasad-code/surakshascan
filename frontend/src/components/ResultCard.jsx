@@ -24,10 +24,11 @@ function getCategoryIcon(category) {
 
 const DIVIDER = "────────────────────";
 
-export default function ResultCard({ result }) {
+export default function ResultCard({ result, t }) {
   const [copied, setCopied] = useState(false);
   if (!result) return null;
   const style = RISK_STYLES[result.risk_level] ?? RISK_STYLES.Suspicious;
+  const riskLabel = t.riskLevelLabels[result.risk_level] ?? result.risk_level;
 
   // WhatsApp, Telegram, and most chat apps render *text* as bold and
   // _text_ as italic automatically, so this reads as a properly
@@ -68,9 +69,9 @@ _Checked via SurakshaScan — report scams to 1930 or cybercrime.gov.in_`;
     <div className={`result-card-enter w-full max-w-2xl mx-auto mt-6 rounded-xl border ${style.border} ${style.bg} p-6`}>
       <div className="flex items-center justify-between">
         <h3 className={`text-lg font-semibold ${style.text} flex items-center gap-2`}>
-          <span>{style.icon}</span> {result.risk_level}
+          <span>{style.icon}</span> {riskLabel}
         </h3>
-        <span className="text-sm text-slate-500">Score: {result.risk_score}/100</span>
+        <span className="text-sm text-slate-500">{t.scoreLabel}: {result.risk_score}/100</span>
       </div>
 
       <div className="w-full h-2 bg-slate-200 rounded-full mt-2 overflow-hidden">
@@ -79,13 +80,13 @@ _Checked via SurakshaScan — report scams to 1930 or cybercrime.gov.in_`;
 
       <p className="mt-4 text-sm text-slate-600 flex items-center gap-1.5">
         <span>{getCategoryIcon(result.category)}</span>
-        <span className="font-medium">Category:</span> {result.category}
+        <span className="font-medium">{t.categoryLabel}</span> {result.category}
       </p>
 
       <p className="mt-2 text-slate-800">{result.explanation}</p>
 
       <div className="mt-4 p-3 rounded-lg bg-white border border-slate-200">
-        <p className="text-sm font-medium text-slate-700">Recommended action</p>
+        <p className="text-sm font-medium text-slate-700">{t.recommendedActionLabel}</p>
         <p className="text-slate-800 mt-1">{result.recommended_action}</p>
       </div>
 
@@ -104,17 +105,17 @@ _Checked via SurakshaScan — report scams to 1930 or cybercrime.gov.in_`;
           onClick={handleShare}
           className="cursor-pointer text-sm text-indigo-600 hover:text-indigo-800 font-medium"
         >
-          Share
+          {t.shareButton}
         </button>
         <button
           onClick={handleCopy}
           className="cursor-pointer text-sm text-indigo-600 hover:text-indigo-800 font-medium"
         >
-          Copy report
+          {t.copyButton}
         </button>
         {copied && (
           <span className="text-xs text-emerald-600 font-medium animate-pulse">
-            Copied to clipboard!
+            {t.copiedToast}
           </span>
         )}
       </div>

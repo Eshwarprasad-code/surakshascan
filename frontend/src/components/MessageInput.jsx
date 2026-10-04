@@ -1,9 +1,9 @@
-export default function MessageInput({ value, onChange, onSubmit, loading }) {
+export default function MessageInput({ value, onChange, onSubmit, loading, t }) {
   return (
     <div className="w-full max-w-2xl mx-auto">
       <textarea
         className="w-full h-40 p-4 rounded-xl border border-slate-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 outline-none resize-none text-base"
-        placeholder="Paste the suspicious SMS, WhatsApp message, or email here... (English, Hindi, or Telugu)"
+        placeholder={t.placeholder}
         value={value}
         onChange={(e) => onChange(e.target.value)}
         maxLength={4000}
@@ -21,7 +21,7 @@ export default function MessageInput({ value, onChange, onSubmit, loading }) {
               <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z" />
             </svg>
           )}
-          {loading ? "Analyzing..." : "Analyze Message"}
+          {loading ? t.analyzingButton : t.analyzeButton}
         </button>
       </div>
     </div>
