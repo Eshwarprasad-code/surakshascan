@@ -30,6 +30,10 @@ class HindiHeuristics(ScamHeuristicStrategy):
         "Digital Arrest Scam": [
             "डिजिटल अरेस्ट", "पुलिस केस", "सीबीआई", "अपराध से जुड़ा", "वीडियो कॉल वेरिफिकेशन",
         ],
+        "Account Suspension / Social Media Phishing": [
+            "खाता निष्क्रिय हो गया है", "खाता सस्पेंड", "खाता वेरीफाई करें",
+            "अकाउंट डिएक्टिवेट", "पहचान सत्यापित करें",
+        ],
     }
 
     urgency_keywords = [

@@ -26,6 +26,10 @@ class TeluguHeuristics(ScamHeuristicStrategy):
         "Digital Arrest Scam": [
             "డిజిటల్ అరెస్ట్", "పోలీస్ కేసు", "సీబీఐ", "నేరం లింక్ అయింది", "వీడియో కాల్ వెరిఫికేషన్",
         ],
+        "Account Suspension / Social Media Phishing": [
+            "ఖాతా నిష్క్రియం అయింది", "ఖాతా సస్పెండ్", "ఖాతా వెరిఫై చేయండి",
+            "అకౌంట్ డియాక్టివేట్",
+        ],
     }
 
     urgency_keywords = [

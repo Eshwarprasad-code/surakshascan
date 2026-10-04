@@ -34,6 +34,12 @@ class EnglishHeuristics(ScamHeuristicStrategy):
             "digital arrest", "cbi", "police case", "linked to a crime",
             "video call verification", "narcotics case", "trai notice",
         ],
+        "Account Suspension / Social Media Phishing": [
+            "account is not active", "account has been suspended",
+            "account will be deactivated", "verify your account",
+            "confirm your identity", "account not active anymore",
+            "reactivate your account", "account disabled",
+        ],
     }
 
     urgency_keywords = [
