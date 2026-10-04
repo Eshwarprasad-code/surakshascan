@@ -31,6 +31,12 @@ booking, payment received) with no link and no request for personal \
 information is SAFE even if it has a stray urgency word — judge the \
 message as a whole, not by any single keyword.
 
+One important exception: a message claiming money was credited "by \
+mistake" or unexpectedly, which then asks the recipient to call a number, \
+return the funds, or contact "support" to resolve it, IS a known real \
+scam pattern (a fake-refund / accidental-credit scam) — flag this even \
+though it looks like a transaction notification on the surface.
+
 Respond with ONLY a JSON object, no other text, in exactly this shape:
 {
   "risk_level": "Safe" | "Suspicious" | "High Risk",
