@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: surakshascan-api
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false  # set manually in Render dashboard — never commit real keys
+      - key: GROQ_MODEL
+        value: openai/gpt-oss-120b
+      - key: FRONTEND_ORIGINS
+        sync: false  # set after the frontend is deployed, e.g. https://surakshascan.vercel.app

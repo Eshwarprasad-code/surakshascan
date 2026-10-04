@@ -7,7 +7,7 @@ app = FastAPI(title="SurakshaScan API", version="0.1.0")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[settings.FRONTEND_ORIGIN, "http://localhost:5173"],
+    allow_origins=settings.FRONTEND_ORIGINS,
     allow_methods=["*"],
     allow_headers=["*"],
 )
