@@ -120,10 +120,8 @@ generous free tier with very fast inference.
       accuracy)
 - [x] Frontend: input, results, example chips, loading/error states,
       trilingual UI toggle, share/copy
-- [x] Live deployment (Render + Vercel)
 - [x] Rate limiting to protect the shared LLM quota
-- [x] Demo video
-- [x] Final submission writeup
+- [x] Live deployment (Render + Vercel)
 
 ## Known limitations / honest caveats
 - The heuristic keyword banks are a solid starting point, not an
