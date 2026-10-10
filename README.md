@@ -111,7 +111,7 @@ generous free tier with very fast inference.
 - Both auto-deploy from the connected GitHub repo — no manual deploy step
   needed after the initial setup : https://github.com/Eshwarprasad-code/surakshascan
 
-## Status: feature-complete, in final submission prep
+## Status: feature-complete
 - [x] Backend: FastAPI, layered architecture, CORS, rate limiting
 - [x] Language detection (English/Hindi/Telugu)
 - [x] Heuristic engine: 7 categories × 3 languages
